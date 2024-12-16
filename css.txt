@@ -1,0 +1,4 @@
+body {
+document.getElementById('alertButton').addEventListener('click', function() {
+    alert('Button clicked! Your website is working fine.');
+});
